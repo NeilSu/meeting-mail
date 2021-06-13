@@ -1,0 +1,18 @@
+C:\Users\neo_su\Documents\Visual Studio 2008\Projects\MeetingMial\MeetingMial\bin\MeetingMial.dll
+C:\Users\neo_su\Documents\Visual Studio 2008\Projects\MeetingMial\MeetingMial\bin\MeetingMial.pdb
+C:\Users\neo_su\Documents\Visual Studio 2008\Projects\MeetingMial\MeetingMial\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\neo_su\Documents\Visual Studio 2008\Projects\MeetingMial\MeetingMial\obj\Debug\MeetingMial.dll
+C:\Users\neo_su\Documents\Visual Studio 2008\Projects\MeetingMial\MeetingMial\obj\Debug\MeetingMial.pdb
+D:\Project\MeetingMial\MeetingMial\bin\MeetingMial.dll
+D:\Project\MeetingMial\MeetingMial\bin\MeetingMial.pdb
+D:\Project\MeetingMial\MeetingMial\bin\Microsoft.Exchange.WebServices.dll
+D:\Project\MeetingMial\MeetingMial\bin\Microsoft.Exchange.WebServices.xml
+D:\Project\MeetingMial\MeetingMial\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\MeetingMial\MeetingMial\obj\Debug\MeetingMial.dll
+D:\Project\MeetingMial\MeetingMial\obj\Debug\MeetingMial.pdb
+C:\Users\neo_su\Desktop\MeetingMial\MeetingMial\MeetingMial\bin\MeetingMial.dll
+C:\Users\neo_su\Desktop\MeetingMial\MeetingMial\MeetingMial\bin\MeetingMial.pdb
+C:\Users\neo_su\Desktop\MeetingMial\MeetingMial\MeetingMial\bin\Microsoft.Exchange.WebServices.xml
+C:\Users\neo_su\Desktop\MeetingMial\MeetingMial\MeetingMial\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\neo_su\Desktop\MeetingMial\MeetingMial\MeetingMial\obj\Debug\MeetingMial.dll
+C:\Users\neo_su\Desktop\MeetingMial\MeetingMial\MeetingMial\obj\Debug\MeetingMial.pdb
